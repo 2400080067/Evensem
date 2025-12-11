@@ -1,1 +1,13 @@
 # Evensem
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CSS Example</title>
+  <!-- Link to external CSS -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Hello, CSS
+  <p>This is a styled paragraph.</p>
+</body>
+</html>
